@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Activities"
+title: "Scientific Activities"
 permalink: /activities/
 author_profile: true
 ---
