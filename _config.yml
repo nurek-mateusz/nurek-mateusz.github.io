@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Mateusz Nurek"
   pronouns         : # example: "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
+  bio              : <br/> # "Short biography for the left-hand sidebar"
   location         : "Poland"
   employer         : "Wroclaw University <br/>of Science and Technology"
   uri              : # URL
