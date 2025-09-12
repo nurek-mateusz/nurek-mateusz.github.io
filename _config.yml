@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Poland"
-  employer         : "Wroclaw University <br\>of Science and Technology"
+  employer         : "Wroclaw University <br/>of Science and Technology"
   uri              : # URL
   email            : "mateusz.nurek@pwr.edu.pl" 
 
