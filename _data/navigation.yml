@@ -12,16 +12,10 @@ main:
     url: /publications/
 
   - title: "Research Projects"
-    url: /talks/    
+    url: /projects/    
 
   - title: "Scientific Activities"
-    url: /teaching/    
+    url: /activities/    
     
   - title: "CV"
     url: /cv/
-
-  - title: "Test"
-    url: /test/
-    
-  # - title: "CV"
-  #   url: /cv-json/
