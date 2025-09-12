@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Test"
-permalink: /ctest/
+permalink: /test/
 author_profile: true
 redirect_from:
   - /resume
