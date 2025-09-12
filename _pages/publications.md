@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Journals:
+## Journals:
 - Yueran Duan, **Mateusz Nurek**, Qing Guan, Radosław Michalski, Petter Holme.
   [Temporal Link Prediction in Social Networks Based on Agent Behavior Synchrony and a Cognitive Mechanism](https://ieeexplore.ieee.org/document/10930952).
   IEEE Transactions on Computational Social Systems, IEEE (2025)
@@ -22,12 +22,12 @@ author_profile: true
   [Combining Machine Learning and Social Network Analysis to Reveal the Organizational Structures](https://www.mdpi.com/2076-3417/10/5/1699).
   Applied Sciences 2020, 10(5), 1699 (2020)
 
-  # Conferences:
+  ## Conferences:
   - Damian Serwata, **Mateusz Nurek**, Radosław Michalski.
     [A Perspective on the Ubiquity of Interaction Streams in Human Realm](https://link.springer.com/chapter/10.1007/978-3-031-63775-9_26).
     ICCS 2024 - International Conference on Computational Science. Lecture Notes in Computer Science LNCS, vol. 14836, pp. 353–367, Springer, Cham (2024)
 
-  # Preprints:
+  ## Preprints:
   - **Mateusz Nurek**, Joanna Kołaczek, Radosław Michalski, Boleslaw K. Szymanski, Omar Lizardo.
     [CoDiNG -- Naming Game with Continuous Latent Opinions of Individual Agents](https://arxiv.org/abs/2406.19204).
     arXiv:2406.19204
