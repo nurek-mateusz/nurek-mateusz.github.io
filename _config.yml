@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Poland"
-  employer         : "Wroclaw University of Science and Technology"
+  employer         : "Wroclaw University \nof Science and Technology"
   uri              : # URL
   email            : "mateusz.nurek@pwr.edu.pl" 
 
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0000-0003-1863-9331"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : "https://www.researchgate.net/profile/Mateusz_Nurek"
+  researchgate     : "https://www.researchgate.net/profile/Mateusz-Nurek"
   scopus           : # URL
 
   # Repositories and software development
